@@ -19,22 +19,8 @@
 - 📫 How to reach me **bashkadiinside@gmail.com**
  
  
-   
-<h2 align="center" >Connect with me:</h2>
-<p align="center"  >
-<a href="https://twitter.com/@bashir_gezey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bashir_gezey" height="60" width="60" />
-</a>
-<a href="https://linkedin.com/in/bashir gezey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bashir gezey" height="60" width="60" />
-</a>
-<a href="https://fb.com/besir gezey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="besir gezey" height="60" width="60" />
-</a>
-<a href="https://instagram.com/byteloom_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="byteloom_45" height="60" width="60" />
-</a>
-<a href="https://www.leetcode.com/bashirgzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bashirgzy" height="60" width="60" />
-</a>
-<a href="https://discord.gg/Bashka#1625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bashka#1625" height="60" width="60" />
-</a>
-</p>
+ 
+ 
  
 
 
