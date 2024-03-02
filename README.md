@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Bashir gezey</h1>
+ <h1 align="center">Hi 👋, I'm Bashir Mohamed ali</h1>
 <h3 align="center">A passionate software developer</h3>
 
  
@@ -20,7 +20,7 @@
  
  
  
- 
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/690ab2fb-3be0-413b-8a30-f181899f5d57/deploy-status)](https://app.netlify.com/sites/bashir-me/deploys)
  
 
 
