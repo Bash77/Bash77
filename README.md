@@ -1,6 +1,5 @@
 <h2 align="left">Who Am I?</h2>
  <p align="left">
-Who am I?
 I am a dedicated and eager computer engineering student at a reputable university. My program provides a comprehensive foundation in both hardware and software, exposing me to areas like computer architecture, algorithms, operating systems, and networking. Alongside these core subjects, I am also building valuable programming skills in various tech stacks, including:
 
 Java and C#: Object-oriented programming languages widely used in software development.
