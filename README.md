@@ -4,7 +4,7 @@ I am a dedicated and eager computer engineering student at a reputable universit
 
 Java and C#: Object-oriented programming languages widely used in software development.
 Data Structures and Algorithms (DSA): Fundamental concepts for efficient data organization and manipulation, essential for problem-solving in various programming contexts.
-Furthermore, I am constantly motivated to broaden my knowledge beyond the curriculum. To that end, I recently completed the "Complete Web Development Bootcamp" on Udemy by Angela Yu. This intensive course has equipped me with the following tech stack:
+Furthermore, I am constantly motivated to broaden my knowledge beyond the curriculum. To that end, I recently started the "Complete Web Development Bootcamp" on Udemy by Angela Yu. This intensive course will equip me with the following tech stack:
 
 Front-end development: HTML, CSS, JavaScript (including libraries like React and Bootstrap)
 Back-end development: Node.js, Express.js, MongoDB
