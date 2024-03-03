@@ -1,4 +1,17 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Who Am I..?</h2>
+ <p align="left">
+Who am I?
+I am a dedicated and eager computer engineering student at a reputable university. My program provides a comprehensive foundation in both hardware and software, exposing me to areas like computer architecture, algorithms, operating systems, and networking. Alongside these core subjects, I am also building valuable programming skills in various tech stacks, including:
+
+Java and C#: Object-oriented programming languages widely used in software development.
+Data Structures and Algorithms (DSA): Fundamental concepts for efficient data organization and manipulation, essential for problem-solving in various programming contexts.
+Furthermore, I am constantly motivated to broaden my knowledge beyond the curriculum. To that end, I recently completed the "Complete Web Development Bootcamp" on Udemy by Angela Yu. This intensive course has equipped me with the following tech stack:
+
+Front-end development: HTML, CSS, JavaScript (including libraries like React and Bootstrap)
+Back-end development: Node.js, Express.js, MongoDB
+Databases: SQL
+Emerging technologies: Web3
+I am passionate about applying my combined knowledge of computer engineering and web development to real-world projects. I am actively seeking opportunities, such as part-time positions or internships, to gain practical experience, refine my skills, and contribute meaningfully to the field.</p>
 
 ###
 
