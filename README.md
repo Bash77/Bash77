@@ -28,9 +28,5 @@ I am passionate about applying my combined knowledge of computer engineering and
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bash77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Bash77/Bash77/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/{{your_username}}/{{Bash77}}/blob/output/github-contribution-grid-snake.svg)
 ###
