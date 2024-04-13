@@ -24,10 +24,11 @@ I am passionate about applying my combined knowledge of computer engineering and
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?
-
-   ![](https://github-readme-stats.vercel.app/api?username=Bash77&theme=radical&hide_height="150"_border=false&include_all_commits=false&count_private=true)
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=Bash77&theme=radical&hide_border=false)
+   
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bash77&theme=radical&hide_height="150"_border=false&include_all_commits=false&count_private=true&layout=compact)
+   ![](https://github-readme-stats.vercel.app/api?username=Bash77&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=Bash77&theme=radical&hide_border=false)
+   
 </div>
 
 
