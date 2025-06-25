@@ -1,16 +1,38 @@
 <h2 align="left">Who Am I?</h2>
- <p align="left">
-I am a dedicated and eager computer engineering student at a reputable university. My program provides a comprehensive foundation in both hardware and software, exposing me to areas like computer architecture, algorithms, operating systems, and networking. Alongside these core subjects, I am also building valuable programming skills in various tech stacks, including:
+# Hi, I'm Bashir Mohamed Ali 👋
 
-Java and C#: Object-oriented programming languages widely used in software development.
-Data Structures and Algorithms (DSA): Fundamental concepts for efficient data organization and manipulation, essential for problem-solving in various programming contexts.
-Furthermore, I am constantly motivated to broaden my knowledge beyond the curriculum. To that end, I recently started the "Complete Web Development Bootcamp" on Udemy by Angela Yu. This intensive course will equip me with the following tech stack:
+🎓 Final-year Computer Engineering student at Bartın University (Graduating October 2026)  
+💻 Full-stack web developer | Problem solver | AI/ML enthusiast  
 
-Front-end development: HTML, CSS, JavaScript (including libraries like React and Bootstrap)
-Back-end development: Node.js, Express.js, MongoDB
-Databases: SQL
-Emerging technologies: Web3
-I am passionate about applying my combined knowledge of computer engineering and web development to real-world projects. I am actively seeking opportunities, such as part-time positions or internships, to gain practical experience, refine my skills, and contribute meaningfully to the field.</p>
+---
+
+## 🧠 About Me
+
+- 🌱 I’m currently building cross-platform apps using .NET MAUI and Firebase  
+- 💡 Passionate about AI, machine learning, and secure coding practices  
+- 📚 Solving data structure & algorithm problems on LeetCode  
+- 🔧 Tools I use: Java, Python, C#, Spring Boot, ASP.NET, React, SQL Server, Git  
+- 🌐 Portfolio: [bashir-me.netlify.app](https://bashir-me.netlify.app)
+
+---
+
+## 🛠 My Projects
+
+- 🎓 [Student Management System (Spring Boot)](https://github.com/Bash77/student-management-system-springboot)  
+- 💰 Kişisel Finans App (.NET MAUI) – multi-feature personal finance app  
+- 🎵 Music Collection System – album/artist manager with MSSQL  
+- 📚 [Book Tracking System (ASP.NET)](https://github.com/Bash77) – library management  
+- 🛡️ [Secure Code Game](https://github.com/Bash77/skills-secure-code-game) – Python-based secure coding game  
+- 🧮 [LeetCode Java Solutions](https://github.com/Bash77/LEETCODE_Problems_With_Java)  
+
+---
+
+## 📫 Contact Me
+
+- 📧 bm7241350@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/bashir-mohamed-ali-9b1925297)  
+- 🌐 [Website](https://bashir-me.netlify.app)
+
 
 
 # 💻 Tech Stack:
