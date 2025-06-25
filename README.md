@@ -2,27 +2,28 @@
 # Hi, I'm Bashir Mohamed Ali 👋
 
 🎓 Final-year Computer Engineering student at Bartın University (Graduating October 2026)  
-💻 Full-stack web developer | Problem solver | AI/ML enthusiast  
+💻 Full-stack developer | MERN stack enthusiast | AI/ML learner  
+🌍 Passionate about solving real-world problems with code
 
 ---
 
 ## 🧠 About Me
 
-- 🌱 I’m currently building cross-platform apps using .NET MAUI and Firebase  
-- 💡 Passionate about AI, machine learning, and secure coding practices  
-- 📚 Solving data structure & algorithm problems on LeetCode  
-- 🔧 Tools I use: Java, Python, C#, Spring Boot, ASP.NET, React, SQL Server, Git  
+- 🌱 Currently developing my final-year project — a **Personal Finance App using the MERN stack** (MongoDB, Express.js, React, Node.js)  
+- 📚 Took university courses this semester on **.NET MAUI** and **ASP.NET**, enhancing my knowledge of cross-platform and backend web technologies  
+- 🧠 Exploring artificial intelligence, machine learning, and secure software development  
+- 🔧 Tools I use: Java, C#, Python, React, Node.js, MongoDB, MySQL, Spring Boot, Git  
 - 🌐 Portfolio: [bashir-me.netlify.app](https://bashir-me.netlify.app)
 
 ---
 
 ## 🛠 My Projects
 
+- 💰 Personal Finance App (MERN Stack) – my final graduation project with features like budgeting, API integration, and visual reports  
 - 🎓 [Student Management System (Spring Boot)](https://github.com/Bash77/student-management-system-springboot)  
-- 💰 Kişisel Finans App (.NET MAUI) – multi-feature personal finance app  
-- 🎵 Music Collection System – album/artist manager with MSSQL  
-- 📚 [Book Tracking System (ASP.NET)](https://github.com/Bash77) – library management  
-- 🛡️ [Secure Code Game](https://github.com/Bash77/skills-secure-code-game) – Python-based secure coding game  
+- 🎵 Music Collection System – web app for managing albums/playlists with MSSQL backend  
+- 📚 Book Tracking System – ASP.NET-based library CRUD app  
+- 🛡️ [Secure Code Game](https://github.com/Bash77/skills-secure-code-game) – Python-based security challenge  
 - 🧮 [LeetCode Java Solutions](https://github.com/Bash77/LEETCODE_Problems_With_Java)  
 
 ---
@@ -32,7 +33,6 @@
 - 📧 bm7241350@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/bashir-mohamed-ali-9b1925297)  
 - 🌐 [Website](https://bashir-me.netlify.app)
-
 
 
 # 💻 Tech Stack:
