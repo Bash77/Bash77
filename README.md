@@ -1,96 +1,46 @@
-# Hi, I'm Bashir Mohamed Ali 👋
+# Hi, I'm Bashir Mohamed Ali 
 
-🐍 Python Developer | AI-Powered Applications  
-🎓 Computer Engineering Student | CS50 Graduate (in progress)  
-💡 Focused on building practical AI systems that turn data into insights
+### 👨‍💻 Java Backend Developer | Computer Engineering new graduate
 
----
-
-## 🧠 About Me
-
-I am a computer engineering student building a strong foundation in **Python and applied artificial intelligence**, with a focus on **real-world, decision-oriented systems**.
-
-My goal is not to train complex models for their own sake, but to design **clear, explainable AI-powered tools** that solve concrete problems using data.
-
-I am currently completing **Harvard’s CS50** as a systems-thinking foundation and using it to build production-quality Python projects.
+I am a highly motivated Computer Science student based in Istanbul, specializing in building robust, high-performance backend systems with Java and Spring Boot. I enjoy solving complex problems and crafting scalable backend architectures that drive real-world impact.
 
 ---
 
-## 🚀 Current Focus (2025–2026)
-
-- Mastering **Python for data analysis and AI**
-- Building **AI-assisted applications** (not toy notebooks)
-- Applying machine learning to **finance, productivity, and analytics**
-- Writing clean, well-documented, reproducible code
-- Developing a portfolio suitable for **Python / AI developer roles**
+## 🚀 Welcome to my Workspace!
+ Check out my featured backend projects, my full resume, and my tech stack!
+**👉 [Visit My Portfolio Website](<https://bashir-mohamed-ali.vercel.app/>)**
 
 ---
 
-## 🧩 Flagship Project
+## 🛠️ Technical Arsenal
 
-### 💰 AI-Powered Personal Finance Analyzer (Python)
-
-A Python-based system that analyzes personal finance data and provides actionable insights using applied machine learning.
-
-**Core Features**
-- Automatic transaction categorization
-- Spending pattern analysis
-- Monthly trend detection
-- Short-term expense forecasting
-- Clear visual explanations
-
-**Tech**
-- Python
-- Pandas, NumPy
-- scikit-learn
-- Matplotlib
-
-This project demonstrates:
-- Practical AI usage
-- Data-driven thinking
-- System design and modular architecture
-- Explainability over black-box automation
+- **Backend Development:** `Java (Core, Streams, Lambdas)`, `Spring Boot`, `REST APIs`, `Microservices`
+- **Databases:** `PostgreSQL`, `MySQL`, `SQL Optimization`
+- **Frontend:** `React`, `Tailwind CSS`, `HTML/CSS/JavaScript`
+- **Tools & Architecture:** `Git`, `Docker (Basic)`, `Linux`
 
 ---
 
-## 🧪 Additional AI Projects (Planned)
+## 💼 Experience & Education
 
-- Intelligent Study Assistant (NLP-based summarization & Q/A)
-- Data-Driven Decision Tool (prediction & insight generation)
-- Lightweight AI APIs for structured data analysis
+**Information Technology Intern** — *TNC Group* [(Dec 2025 – Jan 2026)](cci:1://file:///c:/Users/Bashir/OneDrive/Desktop/Profolio/src/App.jsx:10:0-25:1)
+- Successfully delivered an IT project, showcasing strong technical problem-solving skills.
+- Completed comprehensive applied training in `Python`, `Excel`, `AutoCAD`, and `Adobe Photoshop`.
 
----
+**Frontend Developer** — *Upwork (Remote)* [(Apr 2022 – Jun 2025)](cci:1://file:///c:/Users/Bashir/OneDrive/Desktop/Profolio/src/App.jsx:10:0-25:1)
+- Built 20+ responsive websites and improved application performance by up to 40% through advanced optimization.
 
-## 🧰 Technical Stack
-
-**Primary**
-- Python
-
-**AI / Data**
-- Pandas
-- NumPy
-- scikit-learn
-- Data visualization
-
-**Foundations**
-- Algorithms & data structures
-- Systems thinking (CS50)
-- Git & version control
+🎓 **Computer Engineering** — *Bartın University*
 
 ---
 
-## 🎓 Education
-
-- Harvard CS50 – Introduction to Computer Science (in progress)
-- BSc Computer Engineering (expected 2026)
-
----
-
-## 📫 Contact
-
-📧 Email: bm7241350@gmail.com  
-💼 LinkedIn: linkedin.com/in/bashir-mohamed-ali-9b1925297  
+## 🏆 Featured Certifications
+- 🌐 **Front-End Development** — *Meta*
+- 💻 **Technical Support Fundamentals** — *Google*
+- 🐍 **Programming for Everybody** — *University of Michigan*
 
 ---
 
-> I am building toward a **Python + AI developer role**, focused on applied intelligence, clarity, and real-world impact.
+## 📫 Let's Connect
+- 💼 **LinkedIn:** [bashirmohamedali](https://www.linkedin.com/in/bashirmohamedali/)
+- 📧 **Email:** [besirmohamedali@gmail.com](mailto:besirmohamedali@gmail.com)
