@@ -12,7 +12,7 @@ Currently deepening my skills in **React**, **Next.js**, and **TypeScript** to b
 
 | | |
 |---|---|
-| 🌍 Portfolio | [bashir-mohamed-ali.vercel.app](https://bashir-mohamed-ali.vercel.app/) |
+| 🌍 Portfolio | [bashir-mohamed-ali.vercel.app](https://bashirgezey.netlify.app/) |
 | 💼 LinkedIn | [linkedin.com/in/bashirmohamedali](https://www.linkedin.com/in/bashirmohamedali/) |
 | 🧩 LeetCode | [leetcode.com/bashirgzy](https://leetcode.com/bashirgzy/) |
 | 📧 Email | besirmohamedali@gmail.com |
