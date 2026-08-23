@@ -1,14 +1,14 @@
 <div align="center">
 
+<img src="https://github.com/Bash77.png" width="150" height="150" />
+
 # Bashir Mohamed Ali
 
 ### Python + AI Developer · Backend Engineering
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,java,spring,js,ts,react,reactnative,docker,git,github,linux&perline=13" />
+**Building practical AI applications & scalable backend systems.**
 
-<a href="https://www.linkedin.com/in/bashirmohamedali/">LinkedIn</a> ·
-<a href="https://bashirgezey.netlify.app/">Portfolio</a> ·
-<a href="https://leetcode.com/bashirgzy/">LeetCode</a>
+[GitHub](https://github.com/Bash77) · [LinkedIn](https://www.linkedin.com/in/bashirmohamedali/) · [Portfolio](https://bashirgezey.netlify.app/) · [LeetCode](https://leetcode.com/bashirgzy/)
 
 </div>
 
@@ -18,9 +18,7 @@
 
 ## 👋 Hi, I'm Bashir
 
-Computer Engineering student building **backend systems and practical AI applications**.
-
-Currently focused on **Python, FastAPI, PostgreSQL, RAG & LLM applications**, while continuing to develop with Java and Spring Boot.
+Computer Engineering student focused on **Python, backend engineering, and AI applications**.
 
 </div>
 
@@ -30,17 +28,10 @@ Currently focused on **Python, FastAPI, PostgreSQL, RAG & LLM applications**, wh
 
 ## 🛠️ Tech Stack
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,java,spring,docker&perline=6" />
-
-### Frontend & Applications
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,html,css&perline=6" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea&perline=5" />
+| Backend & APIs | Databases | AI & LLM | DevOps & Tools | Frontend & Mobile |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python,fastapi&perline=2" /> | <img src="https://skillicons.dev/icons?i=postgres&perline=1" /> | **RAG** · **LLMs** | <img src="https://skillicons.dev/icons?i=docker,git,github,linux&perline=2" /> | <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js&perline=2" /> |
+| Python · FastAPI | PostgreSQL · SQL | OpenAI · RAG · LLMs | Docker · Git · GitHub · Linux | React · React Native · TypeScript · JavaScript |
 
 </div>
 
@@ -48,10 +39,26 @@ Currently focused on **Python, FastAPI, PostgreSQL, RAG & LLM applications**, wh
 
 <div align="center">
 
-## 📊 Statistics
+## 🗺️ Roadmap
+
+| 01 | 02 | 03 | 04 | 05 | 06 | 07 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python&perline=1" width="48" /> | <img src="https://skillicons.dev/icons?i=fastapi&perline=1" width="48" /> | <img src="https://skillicons.dev/icons?i=postgres&perline=1" width="48" /> | <img src="https://skillicons.dev/icons?i=docker&perline=1" width="48" /> | 🤖 | 🧠 | 🚀 |
+| **Python** | **FastAPI** | **PostgreSQL** | **Docker** | **RAG** | **LLM Apps** | **Production AI** |
+
+**Python Fundamentals** → **Backend Development** → **Databases** → **Deployment** → **RAG** → **LLM Applications** → **Production AI Systems**
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Statistics
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bash77&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bash77&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bash77&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
 
 <br/>
 
@@ -63,19 +70,14 @@ Currently focused on **Python, FastAPI, PostgreSQL, RAG & LLM applications**, wh
 
 <div align="center">
 
-## 🗺️ Roadmap
+## 🚀 Featured Projects
 
-**Python** → **FastAPI** → **PostgreSQL** → **Backend Architecture** → **RAG / LLM Applications** → **Docker** → **Production AI Systems**
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Current Projects
-
-**Expense Tracker** · **Backend APIs** · **AI Applications** · **RAG / LLM Systems**
+| Project | Focus | Stack |
+|:---|:---|:---|
+| **Expense Tracker** | Personal finance mobile app | React Native · TypeScript |
+| **Price Tracker** | Product price tracking | React · TypeScript |
+| **Library API** | REST backend | FastAPI · PostgreSQL |
+| **CRC Simulator** | Networking / CRC | JavaScript · HTML · CSS |
 
 </div>
 
