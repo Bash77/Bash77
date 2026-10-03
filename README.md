@@ -1,90 +1,72 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/bash77">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e5484d&fontSize=54&height=90&width=666&text=Hi%2C%2C%20I'm%20Bashir%20%F0%9F%91%8B" alt="Hi,, I&#39;m Bashir 👋" />
+  </a>
+</p>
 
-<img src="https://github.com/Bash77.png" width="105" height="105" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=760&height=44&lines=Aspiring%20AI%20%26%20Backend%20Developer;Building%20with%20Python%20%C2%B7%20Exploring%20AI%20Applications" alt="Typing headlines" />
+</p>
 
-# Bashir Mohamed Ali
+### 🚀 About Me
 
-### Python + AI Developer · Backend Engineering
+Computer Engineering student exploring Python, backend development, and practical AI applications. Learning by building, debugging, and solving real problems.
 
-Building practical AI applications & scalable backend systems
+🔭 &nbsp;I'm currently working on **Building Python projects and strengthening my backend and problem-solving skills.**  
+👯 &nbsp;I'm looking to collaborate on **AI, Python, backend, and open-source projects.**  
+🤔 &nbsp;I'm looking for help with **Improving software architecture, testing, and building production-ready applications.**  
+💬 &nbsp;Ask me about **Python, programming fundamentals, GitHub, AI tools, and learning through projects.**  
+⚡ &nbsp;Fun fact: **I like turning things I learn into small projects and experiments.**
 
-<a href="https://github.com/Bash77"><img src="https://img.shields.io/badge/GitHub-Bash77-161b22?style=flat-square&logo=github" /></a>
-<a href="https://www.linkedin.com/in/bashirmohamedali/"><img src="https://img.shields.io/badge/LinkedIn-Bashir%20Mohamed%20Ali-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://bashirgezey.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<a href="https://leetcode.com/bashirgzy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+### 🛠️ Tech Stack
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+</p>
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bashir-mohamed-ali-9b1925297"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/geseyai"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/bashirgezey/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@gezey26"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://youtube.com/@@TheProofTech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:besirmohamedali@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=bash77&bg_color=00000000&color=e5484d&line=e5484d&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
-
-<div align="center">
-
-Computer Engineering student who loves building real-world software.
-<br/>
-Currently focused on Python, backend development, and AI applications.
-
-</div>
-
-<br/>
-
-<table align="center" width="100%">
-<tr><td align="center" colspan="5"><b>⚙️ TECH STACK</b></td></tr>
-<tr>
-<td align="center"><b>Backend & APIs</b></td>
-<td align="center"><b>Databases</b></td>
-<td align="center"><b>AI & LLM</b></td>
-<td align="center"><b>DevOps & Tools</b></td>
-<td align="center"><b>Frontend & Mobile</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python,fastapi&perline=2" /><br/><sub>Python · FastAPI<br/>REST APIs · Pydantic</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres&perline=1" /><br/><sub>PostgreSQL<br/>SQLAlchemy · SQL</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=openai,langchain,huggingface&perline=3" /><br/><sub>OpenAI · RAG · LangChain<br/>Hugging Face · LLMs</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,linux&perline=2" /><br/><sub>Docker · Git · GitHub<br/>Linux</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react,reactnative,ts,js&perline=2" /><br/><sub>React · React Native<br/>TypeScript · JavaScript</sub></td>
-</tr>
-</table>
-
-<br/>
-
-<table align="center" width="100%">
-<tr><td align="center" colspan="7"><b>🗺️ ROADMAP</b></td></tr>
-<tr>
-<td align="center"><b>01</b><br/><br/><img src="https://skillicons.dev/icons?i=python&perline=1" width="44"/><br/><br/><b>Python<br/>Fundamentals</b></td>
-<td align="center"><b>02</b><br/><br/><img src="https://skillicons.dev/icons?i=fastapi&perline=1" width="44"/><br/><br/><b>Backend<br/>Development</b></td>
-<td align="center"><b>03</b><br/><br/><img src="https://skillicons.dev/icons?i=postgres&perline=1" width="44"/><br/><br/><b>Databases</b></td>
-<td align="center"><b>04</b><br/><br/><img src="https://skillicons.dev/icons?i=java,spring&perline=2" width="70"/><br/><br/><b>Backend<br/>Architecture</b></td>
-<td align="center"><b>05</b><br/><br/><img src="https://skillicons.dev/icons?i=openai,langchain&perline=2" width="70"/><br/><br/><b>RAG & LLM<br/>Applications</b></td>
-<td align="center"><b>06</b><br/><br/><img src="https://skillicons.dev/icons?i=docker,github&perline=2" width="70"/><br/><br/><b>Docker &<br/>Deployment</b></td>
-<td align="center"><b>07</b><br/><br/><img src="https://skillicons.dev/icons?i=python,fastapi,postgres&perline=3" width="100"/><br/><br/><b>Production<br/>AI Systems</b></td>
-</tr>
-</table>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%"><b>📊 GITHUB STATS</b><br/><br/><img src="https://github-readme-stats.vercel.app/api?username=Bash77&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" width="100%"/></td>
-<td align="center" width="50%"><b>🔤 TOP LANGUAGES</b><br/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bash77&layout=compact&hide_border=true&theme=github_dark&langs_count=6" width="100%"/></td>
-</tr>
-</table>
-
-<div align="center"><img src="https://streak-stats.demolab.com?user=Bash77&theme=github-dark-blue&hide_border=true" /></div>
-
-<br/>
-
-<table align="center" width="100%">
-<tr><td align="center" colspan="4"><b>🚀 FEATURED PROJECTS</b></td></tr>
-<tr>
-<td width="25%" valign="top"><h4>💰 Expense Tracker</h4>Mobile app to track income, expenses and budgets.<br/><br/><sub>React Native · TypeScript · Expo</sub><br/><br/><a href="https://github.com/Bash77/expense-tracker-react-native">View repository →</a></td>
-<td width="25%" valign="top"><h4>📈 Price Tracker</h4>Track product prices and monitor changes over time.<br/><br/><sub>React · TypeScript · JavaScript</sub><br/><br/><a href="https://github.com/Bash77/price-tracker">View repository →</a></td>
-<td width="25%" valign="top"><h4>📚 Library API</h4>REST API for library management and data operations.<br/><br/><sub>Python · FastAPI · PostgreSQL</sub><br/><br/><a href="https://github.com/Bash77/library-api">View repository →</a></td>
-<td width="25%" valign="top"><h4>🔢 CRC Simulator</h4>CRC calculation and visualization tool for networking.<br/><br/><sub>JavaScript · HTML · CSS</sub><br/><br/><a href="https://github.com/Bash77/CRC-simulator">View repository →</a></td>
-</tr>
-</table>
-
-<div align="center">
-<a href="https://github.com/Bash77?tab=repositories">View more repositories →</a>
-<br/><br/>
-### Learn · Build · Break · Fix · Explain · Repeat.
-</div>
+<p align="center"><i>⭐️ From <a href="https://github.com/bash77">bash77</a></i></p>
